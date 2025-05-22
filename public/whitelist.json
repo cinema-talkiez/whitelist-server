@@ -1,7 +1,8 @@
 {
-  "whitelisted_urls": [
-    "movierulz",
+  "whitelist": [
     "injured-harriet-cinema-talkies",
+    
+    "movierulz",
     "toonworld",
     "netfree",
     "mirror",
@@ -37,17 +38,26 @@
     "/go/",
     "get",
     "cutynow",
+    "challenge.cloudflare.com",
     "sabkiyojana",
+    "captcha.cloudflare.com",
     "gdtot",
     "filepress",
+    "turnstile.cloudflare.com",
     "mega",
+    "challenge-platform",
+    "drive",
+    "captcha",
     "gdflix",
     "stake",
+    "turnstile",
     "hubcloud",
     "toonshub",
     "anitown",
+    "cf-challenge",
     "tamilmv",
     "katmoviehd",
-    "poki"
+    "poki",
+    "cf-clearance"
   ]
 }
