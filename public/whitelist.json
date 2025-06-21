@@ -64,5 +64,6 @@
     "player",
     "m3u8",
     "video",
+    "c.disqus",
   ]
 }
