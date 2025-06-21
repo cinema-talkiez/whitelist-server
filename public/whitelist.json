@@ -9,7 +9,7 @@
     "moviezwap",
  "animerulz",
     "anime-world",
-    "pixfusion",
+    "x.pixfusion",
     "abyss",
   
     "render",
@@ -63,5 +63,6 @@
     "cdn",
     "player",
     "m3u8",
+    "video",
   ]
 }
