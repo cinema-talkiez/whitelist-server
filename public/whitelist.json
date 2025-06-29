@@ -1,5 +1,7 @@
 {
   "whitelist": [
+    "googletagmanager",
+    "fonts.googleapis.com",
     "goatsearlapflock",
     "sharethis",
     "injured-harriet-cinema-talkies",
