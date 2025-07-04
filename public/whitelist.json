@@ -1,11 +1,6 @@
 {
   "whitelist": [
-    "d.turn",
-    "pixel",
-    "eyeota",
-    "agkn",
-    "affec",
-    "openx",
+    "tmdb",
     "flawlessfiles",
     "fonts.googleapis.com",
     "youtube",
